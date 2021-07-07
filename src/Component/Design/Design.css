@@ -1,0 +1,46 @@
+
+.main-div {
+    padding: 5%;
+}
+.main-card {
+    color: #ffffff;
+    padding: 20px;
+}
+.r-arrow {
+    float: right;
+    font-size: 32px;
+}
+
+.img-css {
+    display: block;
+    margin: auto;
+    width: 70%;
+    margin-bottom: 6%;
+}
+
+.tag-name {
+    padding: 5px 10px 5px 10px;
+    border-radius: 20px;
+}
+
+.c-header {
+    border: none !important;
+    background: none !important;
+}
+
+.c-body-div {
+    padding: 25px;
+    border-radius: 39px;
+    margin-bottom: 5vh;
+    margin-top: 8vh;
+    transform: rotate(-7deg);
+}
+
+.c-body {
+    transform: rotate(7deg);
+}
+
+.c-title {
+    font-size: 26px !important;
+    margin-bottom: 30px !important;
+}
